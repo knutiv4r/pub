@@ -1,21 +1,3 @@
-
-knutiv4r
-/
-ibe151
-Private
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-ibe151/oppgave/web_scrapping.py
-@knutiv4r
-knutiv4r Fikset generell exception og tracker på scraping
- 1 contributor
-183 lines (160 sloc)  6.85 KB
 import os
 import requests
 import timeit
